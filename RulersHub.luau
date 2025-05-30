@@ -1,4 +1,4 @@
-wait (0.2)
+pls dont steal. idk how to obfuscate it
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 
